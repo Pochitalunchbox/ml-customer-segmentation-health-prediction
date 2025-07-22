@@ -129,6 +129,8 @@ Each model is evaluated using business-relevant metrics such as ROC AUC, accurac
 
 ---
 
-## 🔗 Connect
+## 🔗 Author
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ethanchoo5/)
+**Ethan Choo**  
+📍 Singapore | 🎓 Data Science & Business Analytics Graduate (SIM-UOL)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ethanchoo5/)  
